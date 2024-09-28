@@ -1,2 +1,0 @@
-# learnFlink
-Learning Flink
